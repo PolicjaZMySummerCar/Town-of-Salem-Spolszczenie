@@ -453,15 +453,15 @@
   <Entry key="ITEM_27_1">Classic Free Ticket</Entry>
   <Entry key="ITEM_27_2">Coven Free Ticket</Entry>
   
-  <Entry key="ITEM_99_0">Name Change</Entry>
-  <Entry key="ITEM_99_0_SPLIT">Name
-Change</Entry>
-  <Entry key="ITEM_99_1">Web Premium</Entry>
-  <Entry key="ITEM_99_2">The Coven</Entry>
+  <Entry key="ITEM_99_0">Zmiana nazwy</Entry>
+  <Entry key="ITEM_99_0_SPLIT">Zmiana
+Nazwy</Entry>
+  <Entry key="ITEM_99_1">ToS na stronie</Entry>
+  <Entry key="ITEM_99_2">The Coven'i</Entry>
   <Entry key="ITEM_99_3">Steam Premium</Entry>
-  <Entry key="ITEM_99_4">Web Premium + Coven Expansion</Entry>
-  <Entry key="ITEM_99_5">Mobile Premium</Entry>
-  <Entry key="ITEM_99_6">Mobile Premium + Coven Expansion</Entry>
+  <Entry key="ITEM_99_4">ToS na stronie + Rozszerzenie Coven</Entry>
+  <Entry key="ITEM_99_5">Mobilny ToS</Entry>
+  <Entry key="ITEM_99_6">Mobilny ToS + Rozszerzenie Coven</Entry>
   
   <Entry key="SHOP_PACK_BG_3">Winter</Entry>
   <!--Key "SHOP_PACK_BG_9" has the same text as key "ITEM_3_9"-->
@@ -569,45 +569,44 @@ Common Steps to Resolution:
   <Entry key="GUI_LOGIN_ERROR_AUTH_INVALID">Error with authentication!
 
 Please contact a moderator!</Entry>
-  <Entry key="GUI_ATTEMPTING_LOGIN">Attempting Login...</Entry>
-  <Entry key="GUI_LOGIN_FORGOT_PASSWORD">Forgot your Password?</Entry>
-  <Entry key="GUI_LOGIN_ACCOUNT_SUSPENDED">Account suspended!</Entry>
-  <Entry key="GUI_LOGIN_AGAIN">Please try to log in again.</Entry>
-  <Entry key="GUI_CHECKING_FOR_UPDATES">Checking for updates...please wait.</Entry>
-  <Entry key="GUI_UPDATING">Updating...please wait.</Entry>
-  <Entry key="GUI_INFO">Info</Entry>
-  <Entry key="GUI_OKAY">OK</Entry>
-  <Entry key="GUI_HELP">Help</Entry>
-  <Entry key="GUI_QUIT">Wyjdz</Entry>
-  <Entry key="GUI_SUBMIT">Submit</Entry>
-  <Entry key="GUI_RESET">Reset</Entry>
-  <Entry key="GUI_UNSAVED">Unsaved</Entry>
-  <Entry key="GUI_CLOSE_AND_SAVE">Close and Save</Entry>
-  <Entry key="GUI_CLOSE_WITHOUT_SAVING">Close without Saving</Entry>
-  <Entry key="GUI_CANCEL">Cancel</Entry>
-  <Entry key="GUI_CANCELED">Canceled</Entry>
-  <Entry key="GUI_YES">Yes</Entry>
-  <Entry key="GUI_NO">No</Entry>
-  <Entry key="GUI_ACCEPT">Accept</Entry>
-  <Entry key="GUI_DECLINE">Decline</Entry>
-  <Entry key="GUI_AGREE">Agree</Entry>
-  <Entry key="GUI_DISAGREE">Disagree</Entry>
-  <Entry key="GUI_PLEASE_WAIT">Please wait...</Entry>
-  <Entry key="GUI_COPY">Copy</Entry>
-  <Entry key="GUI_DAY_DIED">Day died</Entry>
-  <Entry key="GUI_NIGHT_DIED">Night died</Entry>
-  <Entry key="GUI_POSITION">Position</Entry>
-  <Entry key="GUI_ENTER_TEXT">Enter text...</Entry>
-  <Entry key="GUI_COMING_SOON">Coming soon</Entry>
-  <Entry key="GUI_FLUMMERY">Flummery!</Entry>
-  <Entry key="GUI_TARNATION">Tarnation!</Entry>
-  <Entry key="GUI_GUILTY_BUTTON">Guilty</Entry>
-  <Entry key="GUI_INNOCENT_BUTTON">Innocent</Entry>
-  <Entry key="GUI_CHECK_INTERNET">Please check your internet connection and try again.</Entry>
-  <Entry key="GUI_ERROR">Error</Entry>
-  <Entry key="GUI_UNKNOWN_ERROR">Unknown Error</Entry>
-  <Entry key="GUI_ERROR_LOADING_HOMEPAGE">Error loading the Homepage.
-
+<Entry key="GUI_ATTEMPTING_LOGIN">Proba logowania...</Entry>
+   <Entry key="GUI_LOGIN_FORGOT_PASSWORD">Nie pamietasz hasla?</Entry>
+   <Entry key="GUI_LOGIN_ACCOUNT_SUSPENDED">Konto zawieszone!</Entry>
+   <Entry key="GUI_LOGIN_AGAIN">Sprobuj zalogowac sie ponownie.</Entry>
+   <Entry key="GUI_CHECKING_FOR_UPDATES">Sprawdzanie dostepnosci aktualizacji...prosze czekac.</Entry>
+   <Entry key="GUI_UPDATING">Aktualizowanie...prosze czekac.</Entry>
+   <Entry key="GUI_INFO">Informacje</Entry>
+   <Entry key="GUI_OKAY">OK</Entry>
+   <Entry key="GUI_HELP">Pomoc</Entry>
+   <Entry key="GUI_QUIT">Wyjdz</Entry>
+   <Entry key="GUI_SUBMIT">Przeslij</Entry>
+   <Entry key="GUI_RESET">Resetuj</Entry>
+   <Entry key="GUI_UNSAVED">Niezapisany</Entry>
+   <Entry key="GUI_CLOSE_AND_SAVE">Zamknij i zapisz</Entry>
+   <Entry key="GUI_CLOSE_WITHOUT_SAVING">Zamknij bez zapisywania</Entry>
+   <Entry key="GUI_CANCEL">Anuluj</Entry>
+   <Entry key="GUI_CANCELED">Anulowano</Entry>
+   <Entry key="GUI_YES">Tak</Entry>
+   <Entry key="GUI_NO">Nie</Entry>
+   <Entry key="GUI_ACCEPT">Akceptuj</Entry>
+   <Entry key="GUI_DECLINE">Odrzuc</Entry>
+   <Entry key="GUI_AGREE">Zgadzam sie</Entry>
+   <Entry key="GUI_DISAGREE">Nie zgadzam sie</Entry>
+   <Entry key="GUI_PLEASE_WAIT">Prosze czekac...</Entry>
+   <Entry key="GUI_COPY">Kopiuj</Entry>
+   <Entry key="GUI_DAY_DIED">Dzien smierci</Entry>
+   <Entry key="GUI_NIGHT_DIED">Noc umarla</Entry>
+   <Entry key="GUI_POSITION">Pozycja</Entry>
+   <Entry key="GUI_ENTER_TEXT">Wprowadz tekst...</Entry>
+   <Entry key="GUI_COMING_SOON">Juz wkrotce</Entry>
+   <Entry key="GUI_FLUMMERY">Flummery!</Entry>
+   <Entry key="GUI_TARNATION">Tarnacja!</Entry>
+   <Entry key="GUI_GUILTY_BUTTON">winny</Entry>
+   <Entry key="GUI_INNOCENT_BUTTON">Niewinny</Entry>
+   <Entry key="GUI_CHECK_INTERNET">Sprawdz swoje polaczenie internetowe i sprobuj ponownie.</Entry>
+   <Entry key="GUI_ERROR">Blad</Entry>
+   <Entry key="GUI_UNKNOWN_ERROR">Nieznany blad</Entry>
+   <Entry key="GUI_ERROR_LOADING_HOMEPAGE">Blad ladowania strony glownej.
 Please clear your browser cache.</Entry>
   <Entry key="GUI_CONNECTING_TO_SERVER">Connecting to server...</Entry>
   <Entry key="GUI_FAILED_TO_CONNECT">Failed to Connect.</Entry>
@@ -805,10 +804,10 @@ Let's create a new Town of Salem account and link it to your Steam account.</Ent
    <Entry key="GUI_RANKED_PROFILE_REGULAR">Profil wstepnie oceniony</Entry>
    <Entry key="GUI_RANKED_PROFILE_PRERANKED_STATISTICS">Statystyki wstepnego rankingu</Entry>
   <!--Key "GUI_NOTIFICATION_ACCEPT" has the same text as key "GUI_ACCEPT"-->
-<Entry key="GUI_NOTIFICATION_ACCEPT">Accept</Entry>
-  <Entry key="GUI_NOTIFICATION_DENY">Odmowa</Entry>
+<Entry key="GUI_NOTIFICATION_ACCEPT">Akceptuj</Entry>
+  <Entry key="GUI_NOTIFICATION_DENY">Odrzuc</Entry>
   <Entry key="GUI_GAME_INVITE">Zaproszenie do gry</Entry>
-  <Entry key="GUI_KICKED">Wyrzucony z imprezy</Entry>
+  <Entry key="GUI_KICKED">Wyrzucony z grupy</Entry>
   <Entry key="GUI_NOTIFICATIONS_BUTTON">Powiadomienia</Entry>
   <Entry key="GUI_CANNOT_ACCEPT_SECOND_GAME">Nie mozesz zaakceptowac zaproszenia do drugiej gry. Zagraj lub opusc pierwsza gre przed zaakceptowaniem tego zaproszenia.</Entry>
   <Entry key="GUI_START_COUNTDOWN_CANCELED">Odliczanie startowe anulowane. Liczba graczy musi byc zgodna z liczba wybranych rol.</Entry>
@@ -847,6 +846,7 @@ Let's create a new Town of Salem account and link it to your Steam account.</Ent
   <Entry key="GUI_CAULDRON_TOOLTIP">Otworz kociolek</Entry>
   <Entry key="GUI_CAULDRON_ERROR">Jesli nadal widzisz ten blad, zamknij i ponownie zaladuj Town of Salem.</Entry>
   <Entry key="GUI_CAULDRON_HELP_ERROR">Blad ladowania pomocy Cauldron.</Entry>
+  <Entry key="GUI_PRODUCT_TYPE_NAME_1">Postac</Entry>
   <Entry key="GUI_PRODUCT_TYPE_NAME_2">Dom</Entry>
   <Entry key="GUI_PRODUCT_TYPE_NAME_3">Tlo</Entry>
   <Entry key="GUI_PRODUCT_TYPE_NAME_4">Zwierzak</Entry>
@@ -857,8 +857,8 @@ Let's create a new Town of Salem account and link it to your Steam account.</Ent
   <Entry key="GUI_PRODUCT_TYPE_NAME_16">Przewin</Entry>
   <Entry key="GUI_PRODUCT_TYPE_NAME_23">Element konta</Entry>
   <Entry key="GUI_PRODUCT_TYPE_NAME_24">Waluta</Entry>
-  <Entry key="GUI_PRODUCT_TYPE_NAME_25">Prowokacja</Entry>
-  <Entry key="GUI_PRODUCT_TYPE_NAME_26">Mikstura</Entry>
+  <Entry key="GUI_PRODUCT_TYPE_NAME_25">Kpiny</Entry>
+  <Entry key="GUI_PRODUCT_TYPE_NAME_26">Mikstury</Entry>
   <Entry key="GUI_PRODUCT_TYPE_NAME_98">Promocja</Entry>
   <Entry key="GUI_PRODUCT_TYPE_NAME_99">Funkcja konta</Entry>
   <Entry key="GUI_RANKED_QUEUE">Kolejka rankingowa</Entry>
@@ -914,17 +914,17 @@ Let's create a new Town of Salem account and link it to your Steam account.</Ent
   <Entry key="GUI_FRIEND_ERROR_FRIEND_STATUS_BY_ID">Nie mozna uzyskac statusu znajomego na podstawie identyfikatora!</Entry>
   <Entry key="GUI_FRIEND_ERROR_FRIEND_OWNS_COVEN_BY_NAME">Nie udalo sie uzyskac znajomego bedacego wlascicielem Coven wedlug imienia!</Entry>
   <Entry key="GUI_FRIEND_CHAT_OFFLINE">Nie mozesz rozmawiac ze znajomym offline.</Entry>
-  <Entry key="GUI_FRIEND_STATUS_OFFLINE">Offline</Entry>
-  <Entry key="GUI_FRIEND_STATUS_ONLINE">Online</Entry>
-  <Entry key="GUI_FRIEND_STATUS_AWAY">Away</Entry>
-  <Entry key="GUI_FRIEND_STATUS_IN_GAME">In Game</Entry>
-  <Entry key="GUI_FRIEND_STATUS_IN_LOBBY">In Lobby</Entry>
-  <Entry key="GUI_FRIEND_STATUS_LOOKUP_OFFLINE">Offline</Entry>
-  <Entry key="GUI_FRIEND_STATUS_LOOKUP_ONLINE">Online</Entry>
-  <Entry key="GUI_FRIEND_STATUS_LOOKUP_ACTIVE">Online</Entry>
-  <Entry key="GUI_FRIEND_STATUS_LOOKUP_AFK">Away</Entry>
-  <Entry key="GUI_FRIEND_STATUS_LOOKUP_INGAME">In Game</Entry>
-  <Entry key="GUI_FRIEND_STATUS_LOOKUP_INLOBBY">In Lobby</Entry>
+  <Entry key="GUI_FRIEND_STATUS_OFFLINE">Niedostepny</Entry>
+  <Entry key="GUI_FRIEND_STATUS_ONLINE">Dostepny</Entry>
+  <Entry key="GUI_FRIEND_STATUS_AWAY">Poza gra</Entry>
+  <Entry key="GUI_FRIEND_STATUS_IN_GAME">W grze</Entry>
+  <Entry key="GUI_FRIEND_STATUS_IN_LOBBY">W poczekalni</Entry>
+  <Entry key="GUI_FRIEND_STATUS_LOOKUP_OFFLINE">Niedostepny</Entry>
+  <Entry key="GUI_FRIEND_STATUS_LOOKUP_ONLINE">Dostepny</Entry>
+  <Entry key="GUI_FRIEND_STATUS_LOOKUP_ACTIVE">Dostepny</Entry>
+  <Entry key="GUI_FRIEND_STATUS_LOOKUP_AFK">Poza gra</Entry>
+  <Entry key="GUI_FRIEND_STATUS_LOOKUP_INGAME">W grze</Entry>
+  <Entry key="GUI_FRIEND_STATUS_LOOKUP_INLOBBY">W poczekalni</Entry>
   <Entry key="GUI_INVITE_INSTRUCTIONS">Instructions: Click the friend's name you wish to add to the invite list.</Entry>
   <Entry key="GUI_AVAILABLE_PLAYERS">Available Players (%x%)</Entry>
   <Entry key="GUI_INVITE_NAME">Name</Entry>
@@ -1095,21 +1095,21 @@ Let's create a new Town of Salem account and link it to your Steam account.</Ent
       <align="left"><nobr> </nobr></align>
       <align="left"><indent=5%><b><color=#FFB84D>Tier 4: </color></b>Permanent ban</indent></align>
       <align="left"><nobr> </nobr></align>]]></Entry>
-  <Entry key="GUI_PARTY_TITLE">Party</Entry>
-  <Entry key="GUI_PLAY_SOLO">Play Solo</Entry>
-  <Entry key="GUI_CREATE_PARTY">Create a Party</Entry>
-  <Entry key="GUI_RANKED_GAMES_PLAYED">%xOfy% games played</Entry>
-  <Entry key="GUI_RANKED_PRACTICE_GAMES_PLAYED">%xOfy% ranked practice games played</Entry>
-  <Entry key="GUI_JOIN_LOBBY">Join Lobby</Entry>
-  <Entry key="GUI_PLAY_NOW">Play Now</Entry>
-  <Entry key="GUI_JOIN_QUEUE">Join Queue</Entry>
-  <!--Key "GUI_CREATE_APARTY" has the same text as key "GUI_CREATE_PARTY"-->
-  <Entry key="GUI_CREATE_APARTY">Create a Party</Entry>
-  <Entry key="GUI_RULES">Rules</Entry>
-  <Entry key="GUI_RULES_LOAD_ERROR">Error loading Rules.</Entry>
-  <Entry key="GUI_PLAY_RANKED">Play Ranked</Entry>
-  <Entry key="GUI_PLAYERS_IN_PARTY">Players In Party: </Entry>
-  <Entry key="GUI_PARTY_LEAVE">Leave</Entry>
+<Entry key="GUI_PARTY_TITLE">Grupa</Entry>
+   <Entry key="GUI_PLAY_SOLO">Graj solo</Entry>
+   <Entry key="GUI_CREATE_PARTY">Stworz grupe</Entry>
+   <Entry key="GUI_RANKED_GAMES_PLAYED">%xOfy% rozegranych gier</Entry>
+   <Entry key="GUI_RANKED_PRACTICE_GAMES_PLAYED">%xOfy% rozegranych gier treningowych w rankingu</Entry>
+   <Entry key="GUI_JOIN_LOBBY">Dolacz do poczekalni</Entry>
+   <Entry key="GUI_PLAY_NOW">Zagraj teraz</Entry>
+   <Entry key="GUI_JOIN_QUEUE">Dolacz do kolejki</Entry>
+   <!--Klucz ,,GUI_CREATE_APARTY" ma taki sam tekst jak klucz ,,GUI_CREATE_PARTY"-->
+   <Entry key="GUI_CREATE_APARTY">Utworz grupe</Entry>
+   <Entry key="GUI_RULES">Reguly</Entry>
+   <Entry key="GUI_RULES_LOAD_ERROR">Blad ladowania regul.</Entry>
+   <Entry key="GUI_PLAY_RANKED">Graj w rankingach</Entry>
+   <Entry key="GUI_PLAYERS_IN_PARTY">Gracze w druzynie: </Entry>
+   <Entry key="GUI_PARTY_LEAVE">Wyjdz</Entry>
   <!--Key "GUI_PARTY_START" has the same text as key "GUI_START"-->
   <Entry key="GUI_PARTY_START">Rozpocznij</Entry>
   <Entry key="GUI_PARTY_INVITE">Zapros</Entry>
@@ -1709,39 +1709,39 @@ Would you like to clear your Player Prefs?</Entry>
   <Entry key="GUI_PLAYER_STATS_2">Ranked Games Played (Classic)</Entry>
   <Entry key="GUI_PLAYER_STATS_3">Ranked Games Won (Classic)</Entry>
   <Entry key="GUI_PLAYER_STATS_4">Legacy Highest Career Rating</Entry>
-  <Entry key="GUI_PLAYER_STATS_5">Number of wins with BodyGuard</Entry>
-  <Entry key="GUI_PLAYER_STATS_6">Number of wins with Doctor</Entry>
-  <Entry key="GUI_PLAYER_STATS_7">Number of wins with Escort</Entry>
-  <Entry key="GUI_PLAYER_STATS_8">Number of wins with Investigator</Entry>
-  <Entry key="GUI_PLAYER_STATS_9">Number of wins with Jailor</Entry>
-  <Entry key="GUI_PLAYER_STATS_10">Number of wins with Lookout</Entry>
-  <Entry key="GUI_PLAYER_STATS_11">Number of wins with Mayor</Entry>
-  <Entry key="GUI_PLAYER_STATS_12">Number of wins with Medium</Entry>
-  <Entry key="GUI_PLAYER_STATS_13">Number of wins with Retributionist</Entry>
-  <Entry key="GUI_PLAYER_STATS_14">Number of wins with Sheriff</Entry>
-  <Entry key="GUI_PLAYER_STATS_15">Number of wins with Spy</Entry>
-  <Entry key="GUI_PLAYER_STATS_16">Number of wins with Transporter</Entry>
-  <Entry key="GUI_PLAYER_STATS_17">Number of wins with Vampire Hunter</Entry>
-  <Entry key="GUI_PLAYER_STATS_18">Number of wins with Veteran</Entry>
-  <Entry key="GUI_PLAYER_STATS_19">Number of wins with Vigilante</Entry>
-  <Entry key="GUI_PLAYER_STATS_20">Number of wins with Blackmailer</Entry>
-  <Entry key="GUI_PLAYER_STATS_21">Number of wins with Consigliere</Entry>
-  <Entry key="GUI_PLAYER_STATS_22">Number of wins with Consort</Entry>
-  <Entry key="GUI_PLAYER_STATS_23">Number of wins with Disguiser</Entry>
-  <Entry key="GUI_PLAYER_STATS_24">Number of wins with Forger</Entry>
-  <Entry key="GUI_PLAYER_STATS_25">Number of wins with Framer</Entry>
-  <Entry key="GUI_PLAYER_STATS_26">Number of wins with Godfather</Entry>
-  <Entry key="GUI_PLAYER_STATS_27">Number of wins with Janitor</Entry>
-  <Entry key="GUI_PLAYER_STATS_28">Number of wins with Mafioso</Entry>
-  <Entry key="GUI_PLAYER_STATS_29">Number of wins with Amnesiac</Entry>
-  <Entry key="GUI_PLAYER_STATS_30">Number of wins with Arsonist</Entry>
-  <Entry key="GUI_PLAYER_STATS_31">Number of wins with Executioner</Entry>
-  <Entry key="GUI_PLAYER_STATS_32">Number of wins with Jester</Entry>
-  <Entry key="GUI_PLAYER_STATS_33">Number of wins with Serial Killer</Entry>
-  <Entry key="GUI_PLAYER_STATS_34">Number of wins with Survivor</Entry>
-  <Entry key="GUI_PLAYER_STATS_35">Number of wins with Vampire</Entry>
-  <Entry key="GUI_PLAYER_STATS_36">Number of wins with Werewolf</Entry>
-  <Entry key="GUI_PLAYER_STATS_37">Number of wins with Witch</Entry>
+  <Entry key="GUI_PLAYER_STATS_5">Liczba wygranych jako BodyGuard</Entry>
+  <Entry key="GUI_PLAYER_STATS_6">Liczba wygranych jako Doctor</Entry>
+  <Entry key="GUI_PLAYER_STATS_7">Liczba wygranych jako Escort</Entry>
+  <Entry key="GUI_PLAYER_STATS_8">Liczba wygranych jako Investigator</Entry>
+  <Entry key="GUI_PLAYER_STATS_9">Liczba wygranych jako Jailor</Entry>
+  <Entry key="GUI_PLAYER_STATS_10">Liczba wygranych jako Lookout</Entry>
+  <Entry key="GUI_PLAYER_STATS_11">Liczba wygranych jako Mayor</Entry>
+  <Entry key="GUI_PLAYER_STATS_12">Liczba wygranych jako Medium</Entry>
+  <Entry key="GUI_PLAYER_STATS_13">Liczba wygranych jako Retributionist</Entry>
+  <Entry key="GUI_PLAYER_STATS_14">Liczba wygranych jako Sheriff</Entry>
+  <Entry key="GUI_PLAYER_STATS_15">Liczba wygranych jako Spy</Entry>
+  <Entry key="GUI_PLAYER_STATS_16">Liczba wygranych jako Transporter</Entry>
+  <Entry key="GUI_PLAYER_STATS_17">Liczba wygranych jako Vampire Hunter</Entry>
+  <Entry key="GUI_PLAYER_STATS_18">Liczba wygranych jako Veteran</Entry>
+  <Entry key="GUI_PLAYER_STATS_19">Liczba wygranych jako Vigilante</Entry>
+  <Entry key="GUI_PLAYER_STATS_20">Liczba wygranych jako Blackmailer</Entry>
+  <Entry key="GUI_PLAYER_STATS_21">Liczba wygranych jako Consigliere</Entry>
+  <Entry key="GUI_PLAYER_STATS_22">Liczba wygranych jako Consort</Entry>
+  <Entry key="GUI_PLAYER_STATS_23">Liczba wygranych jako Disguiser</Entry>
+  <Entry key="GUI_PLAYER_STATS_24">Liczba wygranych jako Forger</Entry>
+  <Entry key="GUI_PLAYER_STATS_25">Liczba wygranych jako Framer</Entry>
+  <Entry key="GUI_PLAYER_STATS_26">Liczba wygranych jako Godfather</Entry>
+  <Entry key="GUI_PLAYER_STATS_27">Liczba wygranych jako Janitor</Entry>
+  <Entry key="GUI_PLAYER_STATS_28">Liczba wygranych jako Mafioso</Entry>
+  <Entry key="GUI_PLAYER_STATS_29">Liczba wygranych jako Amnesiac</Entry>
+  <Entry key="GUI_PLAYER_STATS_30">Liczba wygranych jako Arsonist</Entry>
+  <Entry key="GUI_PLAYER_STATS_31">Liczba wygranych jako Executioner</Entry>
+  <Entry key="GUI_PLAYER_STATS_32">Liczba wygranych jako Jester</Entry>
+  <Entry key="GUI_PLAYER_STATS_33">Liczba wygranych jako Serial Killer</Entry>
+  <Entry key="GUI_PLAYER_STATS_34">Liczba wygranych jako Survivor</Entry>
+  <Entry key="GUI_PLAYER_STATS_35">Liczba wygranych jako Vampire</Entry>
+  <Entry key="GUI_PLAYER_STATS_36">Liczba wygranych jako Werewolf</Entry>
+  <Entry key="GUI_PLAYER_STATS_37">Liczba wygranych jako Witch</Entry>
   <Entry key="GUI_PLAYER_STATS_38">Number of Times You Died Protecting Someone</Entry>
   <Entry key="GUI_PLAYER_STATS_39">Number of Times Your Bulletproof Vest Saved You From Death</Entry>
   <Entry key="GUI_PLAYER_STATS_40">Number of Times You Healed Someone and Kept Them From Dying</Entry>
@@ -1825,23 +1825,23 @@ Would you like to clear your Player Prefs?</Entry>
   <!--Coming soon. Replace the next stat with the real stats.-->
   <Entry key="GUI_PLAYER_STATS_1000">Coven Stats Coming Soon!!!</Entry>
   
-  <Entry key="GUI_LEADERBOARD_BUTTON_HIDE">Hide</Entry>
-  <Entry key="GUI_LEADERBOARD_COLUMN_HEADER_RANK">Rank</Entry>
+  <Entry key="GUI_LEADERBOARD_BUTTON_HIDE">Ukryj</Entry>
+  <Entry key="GUI_LEADERBOARD_COLUMN_HEADER_RANK">Stopien</Entry>
   <!--Key "GUI_LEADERBOARD_COLUMN_HEADER_NAME" has the same text as key "GUI_INVITE_NAME"-->
-  <Entry key="GUI_LEADERBOARD_COLUMN_HEADER_NAME">Name</Entry>
-  <Entry key="GUI_LEADERBOARD_COLUMN_HEADER_SCORE">Score</Entry>
+  <Entry key="GUI_LEADERBOARD_COLUMN_HEADER_NAME">Nazwa</Entry>
+  <Entry key="GUI_LEADERBOARD_COLUMN_HEADER_SCORE">Wynik</Entry>
   
   
   <Entry key="GUI_SCROLLS_TITLE">Scrolls</Entry>
   <!--Key "GUI_SCROLL" has the same text as key "GUI_CAULDRON_AWARD_SCROLL"-->
-  <Entry key="GUI_SCROLL">Scroll</Entry>
-  <Entry key="GUI_SCROLLS_EQUIPPED">No scrolls equipped</Entry>
-  <Entry key="GUI_TOTAL_LOTS">Total Lots</Entry>
-  <Entry key="GUI_YOUR_LOTS">Your Lots</Entry>
-  <Entry key="GUI_CURRENT_ROLE">Current Role</Entry>
-  <Entry key="GUI_YOUR_ROLE_IS_X">Your role is %role%</Entry>
-  <Entry key="GUI_YOUR_ROLE_IS">Your role is</Entry>
-  <Entry key="GUI_SCROLL_NOT_USED">This scroll will not be used.</Entry>
+<Entry key="GUI_SCROLL">Scrolle</Entry>
+   <Entry key="GUI_SCROLLS_EQUIPPED">Brak scrolli na wyposazeniu</Entry>
+   <Entry key="GUI_TOTAL_LOTS">Calkowita liczba partii</Entry>
+   <Entry key="GUI_YOUR_LOTS">Twoje przedmioty</Entry>
+   <Entry key="GUI_CURRENT_ROLE">Obecna rola</Entry>
+   <Entry key="GUI_YOUR_ROLE_IS_X">Twoja rola to %role%</Entry>
+   <Entry key="GUI_YOUR_ROLE_IS">Twoja rola to</Entry>
+   <Entry key="GUI_SCROLL_NOT_USED">Ten scroll nie bedzie uzywany.</Entry>
   <Entry key="GUI_MORE_INFO">The Coven
 (Buy now!)</Entry>
   <Entry key="GUI_MORE_INFO_BIG">The Coven (Buy now!)</Entry>
@@ -1849,46 +1849,46 @@ Would you like to clear your Player Prefs?</Entry>
   <Entry key="GUI_MORE_INFO2">More Info</Entry>
   <Entry key="GUI_MODE_COMING_SOON">Ranked Practice
 (Coming Soon)</Entry>
-  <Entry key="GUI_HIDE_INFO">Hide Info</Entry>
-  <Entry key="GUI_LOTS">Lots</Entry>
-  <Entry key="GUI_SCROLL_ODDS">Odds</Entry>
+  <Entry key="GUI_HIDE_INFO">Ukryj informacje</Entry>
+  <Entry key="GUI_LOTS">Duzo</Entry>
+  <Entry key="GUI_SCROLL_ODDS">Szanse</Entry>
   <Entry key="GUI_SCROLL_ODDS_DESCRIPTION">x%odds% Odds</Entry>
   <!--Key "GUI_SCROLL_SELECTION_SCROLLS" has the same text as key "GUI_SCROLLS_TITLE"-->
-  <Entry key="GUI_SCROLL_SELECTION_SCROLLS">Equipped Scrolls</Entry>
-  <Entry key="GUI_SCROLL_SELECTION_INVENTORY">Inventory</Entry>
-  <Entry key="GUI_SCROLL_SELECTION_EQUIP_LABEL">Equip</Entry>
-  <Entry key="GUI_SCROLL_SELECTION_UNEQUIP_LABEL">Unequip</Entry>
-  <Entry key="GUI_SCROLL_SELECTION_DEFAULT_TEXT">Equip scrolls to change your odds of receiving certain roles up to a maximum of 3 scrolls.
+<Entry key="GUI_SCROLL_SELECTION_SCROLLS">Wyposazone scrolle</Entry>
+   <Entry key="GUI_SCROLL_SELECTION_INVENTORY">Inwentarz</Entry>
+   <Entry key="GUI_SCROLL_SELECTION_EQUIP_LABEL">Wyposaz</Entry>
+   <Entry key="GUI_SCROLL_SELECTION_UNEQUIP_LABEL">Wylacz</Entry>
+   <Entry key="GUI_SCROLL_SELECTION_DEFAULT_TEXT">Wyposaz scrolle, aby zmienic swoje szanse na otrzymanie okreslonych rol, maksymalnie do 3 scrollow.
   
-You may remove an equipped scroll to add a different scroll type.</Entry>
-  <Entry key="GUI_SCROLL_SELECTION_SELECT_SCROLL">Select a scroll from your inventory to equip it up to a maximum of 3 scrolls.
+Mozesz usunac wyposazony scroll, aby dodac inny typ scrollu.</Entry>
+   <Entry key="GUI_SCROLL_SELECTION_SELECT_SCROLL">Wybierz scroll ze swojego ekwipunku, aby wyposazyc go w maksymalnie 3 scrolle.
   
-You may remove an equipped scroll to add a different scroll type.</Entry>
-  <Entry key="GUI_SCROLL_SELECTION_EQUIP_SCROLL">Equip %scroll%?</Entry>
-  <Entry key="GUI_SCROLL_SELECTION_UNEQUIP_SCROLL">Unequip %scroll%?</Entry>
-  <Entry key="GUI_SCROLL_SELECTION_TOO_SIMILAR_SCROLL">Sorry, another scroll is too similar to %scroll%.</Entry>
-  <Entry key="GUI_SCROLL_SELECTION_MAX_EQUIPPED">You can't equip any more scrolls.</Entry>
-  <Entry key="GUI_SCROLL_SELECTION_NO_SCROLLS">You have no unequipped scrolls in your inventory.</Entry>
-  <Entry key="GUI_SCROLL_CELL_DESCRIPTION">%description%</Entry>
-  <Entry key="GUI_SCROLL_CELL_QUANTITY">Owned: %quantity%</Entry>
-  <Entry key="GUI_SCROLL_OWNED">Owned: </Entry>
-  <Entry key="GUI_NO_SCROLL">No Scroll</Entry>
-  <Entry key="GUI_EQUIP_SCROLL">Equip Scroll</Entry>
-  <Entry key="GUI_PROFILE_PROFILE">Profile</Entry>
-  <Entry key="GUI_PROFILE_SCROLLS">Scrolls</Entry>
-  <Entry key="GUI_PROFILE_TAUNTS">Taunts</Entry>
-  <Entry key="GUI_PROFILE_TICKETS">Tickets</Entry>
-  <Entry key="GUI_PROFILE_NOT_AVAILABLE">This functionality is only available to players that have upgraded.</Entry>
-  <Entry key="GUI_PROFILE_NOT_AVAILABLE_STEAM">This functionality is only available on your linked Steam account.</Entry>
-  <Entry key="GUI_SEARCH">Search</Entry>
-  <Entry key="GUI_SEARCH_PLACEHOLDER">Enter Search</Entry>
-  <Entry key="GUI_SEARCH_SORT_BY">Sort By:</Entry>
-  <Entry key="GUI_SEARCH_SORT_ALPHABETICAL">Alphabetical</Entry>
-  <Entry key="GUI_SEARCH_SORT_RELEASE_DATE">Release Date</Entry>
-  <Entry key="GUI_SEARCH_HIDE_OWNED">Hide Owned Items</Entry>
-  <Entry key="GUI_SEARCH_CAN_PURCHASE">Can Purchase</Entry>
-  <Entry key="GUI_SHOP_NO_MATCHING_ITEMS">No matching items</Entry>
-  <Entry key="GUI_SHOP_MOST_POPULAR">Most Popular!</Entry>
+Mozesz usunac wyposazony scroll, aby dodac inny typ scrollu.</Entry>
+   <Entry key="GUI_SCROLL_SELECTION_EQUIP_SCROLL">Wyposazyc %scroll%?</Entry>
+   <Entry key="GUI_SCROLL_SELECTION_UNEQUIP_SCROLL">Wylaczyc %scroll%?</Entry>
+   <Entry key="GUI_SCROLL_SELECTION_TOO_SIMILAR_SCROLL">Przepraszamy, inny scroll jest zbyt podobny do %scroll%.</Entry>
+   <Entry key="GUI_SCROLL_SELECTION_MAX_EQUIPPED">Nie mozesz zalozyc wiecej scrollow.</Entry>
+   <Entry key="GUI_SCROLL_SELECTION_NO_SCROLLS">Nie masz niewyposazonych scrollow w swoim ekwipunku.</Entry>
+   <Entry key="GUI_SCROLL_CELL_DESCRIPTION">%opis%</Entry>
+   <Entry key="GUI_SCROLL_CELL_QUANTITY">Wlasnosc: %quantity%</Entry>
+   <Entry key="GUI_SCROLL_OWNED">Wlasnosc: </Entry>
+   <Entry key="GUI_NO_SCROLL">Brak przewijania</Entry>
+   <Entry key="GUI_EQUIP_SCROLL">Wyposaz scroll</Entry>
+   <Entry key="GUI_PROFILE_PROFILE">Profil</Entry>
+   <Entry key="GUI_PROFILE_SCROLLS">Scrolle</Entry>
+   <Entry key="GUI_PROFILE_TAUNTS">Kpiny</Entry>
+   <Entry key="GUI_PROFILE_TICKETS">Bilety</Entry>
+   <Entry key="GUI_PROFILE_NOT_AVAILABLE">Ta funkcja jest dostepna tylko dla graczy, ktorzy dokonali aktualizacji.</Entry>
+   <Entry key="GUI_PROFILE_NOT_AVAILABLE_STEAM">Ta funkcja jest dostepna tylko na polaczonym koncie Steam.</Entry>
+   <Entry key="GUI_SEARCH">Szukaj</Entry>
+   <Entry key="GUI_SEARCH_PLACEHOLDER">Wpisz szukaj</Entry>
+   <Entry key="GUI_SEARCH_SORT_BY">Sortuj wedlug:</Entry>
+   <Entry key="GUI_SEARCH_SORT_ALPHABETICAL">alfabetycznie</Entry>
+   <Entry key="GUI_SEARCH_SORT_RELEASE_DATE">Data wydania</Entry>
+   <Entry key="GUI_SEARCH_HIDE_OWNED">Ukryj posiadane przedmioty</Entry>
+   <Entry key="GUI_SEARCH_CAN_PURCHASE">Moze kupowac</Entry>
+   <Entry key="GUI_SHOP_NO_MATCHING_ITEMS">Brak pasujacych elementow</Entry>
+   <Entry key="GUI_SHOP_MOST_POPULAR">Najpopularniejsze!</Entry>
   <Entry key="GUI_SHOP_PURCHASE_POINTS">Purchase
 Town Points</Entry>
   <Entry key="GUI_SHOP_CHARACTER_SKINS">Character
@@ -2017,14 +2017,14 @@ e</Entry>
   <Entry key="GUI_NAME_CHANGE_CHECK_BUTTON">Check Now</Entry>
   <Entry key="GUI_NAME_CHANGE_BUY_BUTTON">Buy
 $%price% USD</Entry>
-  <Entry key="GUI_NAME_CHANGE_BUTTON">Change Name</Entry>
-  <Entry key="GUI_NAME_CHANGE_HEADER">Name Change</Entry>
-  <Entry key="GUI_NAME_CHANGE_TITLE">Change Your Account Name</Entry>
-  <Entry key="GUI_NAME_CHANGE_CURRENTLY">(Currently %name%)</Entry>
-  <Entry key="GUI_NAME_CHANGE_CHECK_AVAILABILITY">Check availability:</Entry>
-  <Entry key="GUI_NAME_CHANGE_PURCHASE">Purchase Name Change</Entry>
-  <Entry key="GUI_NAME_CHANGE_SUBMITTING_NAME_CHANGE">Processing name change. Please wait...</Entry>
-  <Entry key="GUI_NAME_CHANGE_PLACEHOLDER">Enter New Account Name</Entry>
+  <Entry key="GUI_NAME_CHANGE_BUTTON">Zmien nazwe</Entry>
+  <Entry key="GUI_NAME_CHANGE_HEADER">Zmiana nazwy</Entry>
+  <Entry key="GUI_NAME_CHANGE_TITLE">Zmien nazwe konta</Entry>
+  <Entry key="GUI_NAME_CHANGE_CURRENTLY">(Obecna nazwa: %name%)</Entry>
+  <Entry key="GUI_NAME_CHANGE_CHECK_AVAILABILITY">Sprawdz dostepnosc:</Entry>
+  <Entry key="GUI_NAME_CHANGE_PURCHASE">Kup zmiane nazwy</Entry>
+  <Entry key="GUI_NAME_CHANGE_SUBMITTING_NAME_CHANGE">Trwa zmiana nazwy. Prosze czekac...</Entry>
+  <Entry key="GUI_NAME_CHANGE_PLACEHOLDER">Wpisz nowa nazwwe konta</Entry>
   <!--Key "GUI_NAME_CHANGE_AMOUNT" has the same text as key "GUI_SHOP_NAME_CHANGE_AMOUNT"-->
   <Entry key="GUI_NAME_CHANGE_AMOUNT">$4.99 USD</Entry>
   <Entry key="GUI_ACCOUNT_NAME_LENGTH">Name must be at least 3 characters long and no more than 20 characters!</Entry>
@@ -2052,31 +2052,31 @@ Your chosen username is not reserved. If the name change fails, you will be gran
   <Entry key="GUI_ACCOUNT_NAME_CHANGE_SERVER_FAILED">Something went wrong with your name change.  We're sorry, try again later.</Entry>
   <!--Key "GUI_ACCOUNT_NAME_CHANGE_NO" has the same text as key "GUI_NO"-->
   <Entry key="GUI_ACCOUNT_NAME_CHANGE_NO">No</Entry>
-  <Entry key="GUI_FRIENDS_REFERRALS">Friend Referrals</Entry>
-  <Entry key="GUI_FRIENDS_REFERRAL">Friend Referral</Entry>
-  <Entry key="GUI_FRIENDS_REFERRALS_NON_PREMIUM_BLURB">The Refer-a-Friend system allows players that have upgraded accounts to invite their friends to play Town of Salem on the web for free for a limited number of games.</Entry>
-  <Entry key="GUI_FRIENDS_REFERRALS_PREMIUM_NONQUALIFIED_BLURB">You will be able to request your first five (5) referral codes once you reach ten (10) games played.</Entry>
-  <Entry key="GUI_FRIENDS_REFERRALS_WARNING_APPLE_BLURB"><![CDATA[<color=yellow>Warning</color>: Referral codes are <color=red>ONLY</color> redeemable on our web version, not on any mobile platform.]]></Entry>
-  <Entry key="GUI_FRIENDS_REFERRALS_PREMIUM_QUALIFIED_BLURB">You can request referral codes to give to your friends!</Entry>
-  <Entry key="GUI_FRIENDS_REFERRALS_PREMIUM_QUALIFIED_BLURB2">Your account may be suspended if a referred friend is banned during their trial period. If they upgrade to a Premium account, you are no longer responsible for them.</Entry>
-  <Entry key="GUI_FRIENDS_REFERRALS_TYPE_I_AGREE">Type "I Agree" if you accept these terms.</Entry><!--TRANSLATER: Do not translate "I Agree"-->
-  <Entry key="GUI_FRIENDS_REFERRALS_UPGRADE">Upgrade</Entry>
-  <Entry key="GUI_FRIENDS_REFERRALS_ENTER_I_AGREE">Enter "I Agree"</Entry><!--TRANSLATER: Do not translate "I Agree"-->
-  <Entry key="GUI_FRIENDS_REFERRALS_CAN_NOW_REQUEST_BLURB">You can now request referral codes to give to your web friends!</Entry>
-  <Entry key="GUI_FRIENDS_REFERRALS_REQUEST_MORE_BLURB">You can request more referral codes to give to your web friends!</Entry>
-  <Entry key="GUI_FRIENDS_REFERRALS_REQUEST_CODES">Request Codes</Entry>
-  <Entry key="GUI_FRIENDS_REFERRALS_CODE_INSTRUCTIONS">Your friends can use one of the above codes when they go to play on the web. This will give them five (5) free games to try out Town of Salem.</Entry>
-  <Entry key="GUI_FRIENDS_REFERRALS_HEADER_COL_1">Copy</Entry>
-  <Entry key="GUI_FRIENDS_REFERRALS_HEADER_COL_2">Code</Entry>
-  <Entry key="GUI_FRIENDS_REFERRALS_HEADER_COL_3">Status</Entry>
-  <Entry key="GUI_FRIENDS_REFERRALS_HEADER_COL_4">Used By</Entry>
-  <Entry key="GUI_FRIENDS_REFERRALS_STATUS_1">Unused</Entry>
-  <Entry key="GUI_FRIENDS_REFERRALS_STATUS_2">Used</Entry>
-  <Entry key="GUI_FRIENDS_REFERRALS_STATUS_3">Rewarded</Entry>
-  <Entry key="GUI_FRIENDS_REFERRALS_NOTICE_1">5 more codes in %x% games played.</Entry>
-  <Entry key="GUI_FRIENDS_REFERRALS_NOTICE_2">Rewarded Friends Referred: %x%</Entry>
-  <Entry key="GUI_FRIENDS_REFERRALS_NO_MORE_CODES"> You have all of the codes available.</Entry>
-  <Entry key="GUI_FRIENDS_REFERRALS_EXPLAINER_TEXT">Congratulations!
+<Entry key="GUI_FRIENDS_REFERRALS">Polecenie znajomych</Entry>
+   <Entry key="GUI_FRIENDS_REFERRAL">Polecenie znajomego</Entry>
+   <Entry key="GUI_FRIENDS_REFERRALS_NON_PREMIUM_BLURB">System Polec znajomemu umozliwia graczom, ktorzy ulepszyli konta, zapraszanie znajomych do darmowej gry w Town of Salem w sieci w ograniczonej liczbie gier.</Entry>
+   <Entry key="GUI_FRIENDS_REFERRALS_PREMIUM_NONQUALIFIED_BLURB">Bedziesz mogl poprosic o pierwsze piec (5) kodow polecajacych po rozegraniu dziesieciu (10) gier.</Entry>
+   <Entry key="GUI_FRIENDS_REFERRALS_WARNING_APPLE_BLURB"> <![CDATA[<color=yellow>Ostrzezenie</color>: Kody polecajace mozna <color=red>TYLKO</color> zrealizowac w naszej wersji internetowej, nie na zadnej platformie mobilnej.]]> </Entry>
+   <Entry key="GUI_FRIENDS_REFERRALS_PREMIUM_QUALIFIED_BLURB">Mozesz poprosic o kody polecajace, ktore mozesz przekazac znajomym!</Entry>
+   <Entry key="GUI_FRIENDS_REFERRALS_PREMIUM_QUALIFIED_BLURB2">Twoje konto moze zostac zawieszone, jesli polecony znajomy zostanie zbanowany podczas okresu probnego. Jesli przejda na konto Premium, nie ponosisz juz za nie odpowiedzialnosci.</Entry>
+   <Entry key="GUI_FRIENDS_REFERRALS_TYPE_I_AGREE">Wpisz ,,I Agree", jesli akceptujesz te warunki.</Entry><!--TRANSLATER: Nie tlumacz ,,Zgadzam sie"-->
+   <Entry key="GUI_FRIENDS_REFERRALS_UPGRADE">Aktualizacja</Entry>
+   <Entry key="GUI_FRIENDS_REFERRALS_ENTER_I_AGREE">Wpisz ,,I Agree"</Entry><!--TRANSLATER: Nie tlumacz ,,Zgadzam sie"-->
+   <Entry key="GUI_FRIENDS_REFERRALS_CAN_NOW_REQUEST_BLURB">Mozesz teraz poprosic o kody polecajace, ktore mozesz przekazac znajomym z sieci!</Entry>
+   <Entry key="GUI_FRIENDS_REFERRALS_REQUEST_MORE_BLURB">Mozesz poprosic o wiecej kodow polecajacych, ktore mozesz przekazac znajomym z sieci!</Entry>
+   <Entry key="GUI_FRIENDS_REFERRALS_REQUEST_CODES">Popros o kody</Entry>
+   <Entry key="GUI_FRIENDS_REFERRALS_CODE_INSTRUCTIONS">Twoi znajomi moga uzyc jednego z powyzszych kodow, gdy ida grac w sieci. To da im piec (5) darmowych gier do wyprobowania Town of Salem.</Entry>
+   <Entry key="GUI_FRIENDS_REFERRALS_HEADER_COL_1">Kopiuj</Entry>
+   <Entry key="GUI_FRIENDS_REFERRALS_HEADER_COL_2">Kod</Entry>
+   <Entry key="GUI_FRIENDS_REFERRALS_HEADER_COL_3">Stan</Entry>
+   <Entry key="GUI_FRIENDS_REFERRALS_HEADER_COL_4">Uzywany przez</Entry>
+   <Entry key="GUI_FRIENDS_REFERRALS_STATUS_1">Nieuzywany</Entry>
+   <Entry key="GUI_FRIENDS_REFERRALS_STATUS_2">Uzywane</Entry>
+   <Entry key="GUI_FRIENDS_REFERRALS_STATUS_3">Nagrodzony</Entry>
+   <Entry key="GUI_FRIENDS_REFERRALS_NOTICE_1">5 wiecej kodow w rozegranych %x% meczach.</Entry>
+   <Entry key="GUI_FRIENDS_REFERRALS_NOTICE_2">Nagrodzeni poleceni znajomi: %x%</Entry>
+   <Entry key="GUI_FRIENDS_REFERRALS_NO_MORE_CODES"> Masz wszystkie dostepne kody.</Entry>
+   <Entry key="GUI_FRIENDS_REFERRALS_EXPLAINER_TEXT">Gratulacje!
   
   
   
@@ -3043,8 +3043,8 @@ NOTE: If you don't hit submit, you will get a random name!</Entry>
   <Entry key="GUI_VOTES_ARE_NEEDED"> potrzeba glosow, aby wyslac kogos na rozprawe.</Entry>
   <Entry key="GUI_TOWN_PUT_THEM_ON_TRIAL" style="trial">Miasto zdecydowalo postawic %name% przed sadem.</Entry>
   <Entry key="GUI_TOWN_MAY_VOTE_ON_THEM">Miasto moze teraz glosowac nad losem &lt;color=#FFAE00FF&gt;%name%&lt;/color&gt;.</Entry>
-  <Entry key="GUI_TOWN_DECIDED_TO_LYNCH_THEM" style="trial">Miasto zdecydowalo sie na lincz %name% by a vote of &lt;color=#FF0000&gt;%x%&lt;/color&gt; to &lt;color=#66FF66&gt;%y%&lt;/color&gt;.</Entry>
-  <Entry key="GUI_TOWN_DECIDED_TO_PARDON_THEM" style="trial">Miasto zdecydowalo się ulaskawic %name% by a vote of &lt;color=#66FF66&gt;%x%&lt;/color&gt; to &lt;color=#FF0000&gt;%y%&lt;/color&gt;.</Entry>
+  <Entry key="GUI_TOWN_DECIDED_TO_LYNCH_THEM" style="trial">Miasto zdecydowalo sie na lincz %name% glosami &lt;color=#FF0000&gt;%x%&lt;/color&gt; do &lt;color=#66FF66&gt;%y%&lt;/color&gt;.</Entry>
+  <Entry key="GUI_TOWN_DECIDED_TO_PARDON_THEM" style="trial">Miasto zdecydowalo się ulaskawic %name% glosami &lt;color=#66FF66&gt;%x%&lt;/color&gt; do &lt;color=#FF0000&gt;%y%&lt;/color&gt;.</Entry>
   <Entry key="GUI_TOWN_DECIDED_TO_LYNCH_THEM1">Miasto zdecydowalo sie na lincz </Entry>
   <Entry key="GUI_TOWN_DECIDED_TO_LYNCH_THEM2"> glosami </Entry>
   <Entry key="GUI_TOWN_DECIDED_TO_LYNCH_THEM3"> do </Entry>
@@ -3093,8 +3093,8 @@ NOTE: If you don't hit submit, you will get a random name!</Entry>
   <Entry key="GUI_NO_TRIALS_REMAINING" style="trial">Nie masz juz dostepnych prob.</Entry>
   <Entry key="GUI_EXECUTIONER_COMPLETED_GOAL" style="notice">Udalo ci sie zlinczowac swoj cel!</Entry>
   <Entry key="GUI_JESTER_COMPLETED_GOAL" style="notice">Zostales zlinczowany!</Entry>
-  <Entry key="GUI_XMAYOR_REVEALED" style="mayor_reveal">%name% ujawnil sie jako <![CDATA[<color=#7FFF00>]]>Starosta<![CDATA[</color>]]>!</Entry>
-  <Entry key="GUI_MAYOR_REVEALED">ujawnil sie jako <![CDATA[<color=#7FFF00>]]>Starosta<![CDATA[</color>]]>!</Entry>
+  <Entry key="GUI_XMAYOR_REVEALED" style="mayor_reveal">%name% ujawnil sie jako <![CDATA[<color=#7FFF00>]]>Mayor<![CDATA[</color>]]>!</Entry>
+  <Entry key="GUI_MAYOR_REVEALED">ujawnil sie jako <![CDATA[<color=#7FFF00>]]>Mayor<![CDATA[</color>]]>!</Entry>
   <!--Key "GUI_XVOTES_NEEDED" has the same text as key "GUI_XVOTES_ARE_NEEDED"-->
   <Entry key="GUI_XVOTES_NEEDED">%number% glosy sa potrzebne, aby wyslac kogos na proces.</Entry>
   <Entry key="GUI_VOTES_NEEDED">glosy sa potrzebne, aby wyslac kogos na proces.</Entry>
@@ -3562,7 +3562,7 @@ Cancel - Do not close.</Entry>
   <Entry key="GUI_GUARDIAN_ANGEL_CONVERTED_TO_29" style="ability_feedback">Twoj cel zginal. Stales sie <![CDATA[<color=#D2D201>]]>Ocalalym<![CDATA[</color>]]>!</Entry>
   <Entry key="GUI_INVALID_NAME_MESSAGE1" style="system">Ta nazwa jest zbyt podobna do nazwy innego gracza.</Entry>
   <Entry key="GUI_INVALID_NAME_MESSAGE2" style="system">Nazwa nie moze zawierac wulgaryzmow.</Entry>
-  <Entry key="GUI_START_NIGHT_TRANSITION1">Teraz rozpocznie się pierwsza noc.</Entry>
+  <Entry key="GUI_START_NIGHT_TRANSITION1">Teraz rozpocznie sie pierwsza noc.</Entry>
   <Entry key="GUI_START_NIGHT_TRANSITION2">Na dalsze glosowanie jest juz za pozno.</Entry>
   <Entry key="GUI_START_NIGHT_TRANSITION3">Noc zapada na Town of Salem.</Entry>
   <Entry key="GUI_LYNCH_USER_MAY_GOD_HAVE_MERCY_X">Niech Bog ma milosierdzie nad twoja dusza, %name%.</Entry>
@@ -3710,8 +3710,8 @@ Cancel - Do not close.</Entry>
    <Entry key="GUI_ROLE_CARD_GOAL_5">Zlinczuj kazdego przestepce i zloczynce.</Entry>
    <!--Klucz ,,GUI_ROLE_CARD_ALIGNMENT_5" ma taki sam tekst jak klucz ,,GUI_PLAYER_STATS_BUTTON_TOWN"-->
    <Entry key="GUI_ROLE_CARD_ALIGNMENT_5">Miasto</Entry>
-   <Entry key="GUI_ROLE_CARD_ABILITY_6">-Mozesz ujawnic sie jako Starosta miasta.</Entry>
-   <Entry key="GUI_ROLE_CARD_ATTRIBUTE_6">-Gdy ujawnisz sie jako Starosta, Twoj glos liczy sie jako 3 glosy.
+   <Entry key="GUI_ROLE_CARD_ABILITY_6">-Mozesz ujawnic sie jako Mayor miasta.</Entry>
+   <Entry key="GUI_ROLE_CARD_ATTRIBUTE_6">-Gdy ujawnisz sie jako Mayor, Twoj glos liczy sie jako 3 glosy.
 - Mozesz nie otrzymac %GUI_ROLE_CARD_HEAL%, gdy sie ujawnisz.
 - Po ujawnieniu nie mozesz szeptac ani byc szeptanym.</Entry>
 <!--Klucz ,,GUI_ROLE_CARD_GOAL_6" ma taki sam tekst jak klucz ,,GUI_ROLE_CARD_GOAL_0"-->
@@ -3822,8 +3822,9 @@ Cancel - Do not close.</Entry>
   <Entry key="GUI_ROLE_CARD_ALIGNMENT_20">Mafia</Entry>
 <Entry key="GUI_ROLE_CARD_ABILITY_21">-Mozzesz zaatakowac gracza kazdej nocy.</Entry>
 <Entry key="GUI_ROLE_CARD_ALIGNMENT_2">Miasto</Entry>
-   <Entry key="GUI_ROLE_CARD_ABILITY_3">-Zbadaj jedna osobe kazdej nocy, aby uzyskac wskazowke dotyczaca jej roli.</Entry>
-   <Entry key="GUI_ROLE_CARD_ATTRIBUTE_3">-Brak.</Entry>
+  <Entry key="GUI_ROLE_CARD_ATTRIBUTE_21">-Jesli w poblizu znajduje sie <![CDATA[<color=#DD0000>]]>Mafioso<![CDATA[</color>]]>, zaatakuje on cel zamiast ciebie.
+-Bedziesz wygladal na niewinnego dla <![CDATA[<color=#7FFF00>]]>Sheriffa<![CDATA[</color>]]>.
+-Mozesz rozmawiac z innymi mafiosami w nocy.</Entry>
   <!--Key "GUI_ROLE_CARD_GOAL_21" has the same text as key "GUI_ROLE_CARD_GOAL_15"-->
   <Entry key="GUI_ROLE_CARD_GOAL_21">Zabij kazdego, kto nie podda sie mafii..</Entry>
   <!--Key "GUI_ROLE_CARD_ALIGNMENT_21" has the same text as key "GUI_PLAYER_STATS_BUTTON_MAFIA"-->
@@ -4066,7 +4067,7 @@ Prosze nie uzywac znakow takich jak spacje, &apos; lub &quot;</Entry>
    <Entry key="GUI_TAUNT_MENU_SUBHEADER1">(znak)</Entry>
    <Entry key="GUI_TAUNT_MENU_SUBHEADER2">(Zwierzak)</Entry>
    <Entry key="GUI_TAUNT_MENU_SUBHEADER4">(Dom)</Entry>
-   <Entry key="GUI_TAUNT_TOOLTIP_REASON2">Nie jestes wlascicielem tej drwiny.</Entry>
+   <Entry key="GUI_TAUNT_TOOLTIP_REASON2">Nie jestes wlascicielem tej kpiny.</Entry>
    <Entry key="GUI_TAUNT_TOOLTIP_REASON3">Twoj cel jest juz wysmiewany.</Entry>
    <Entry key="GUI_TAUNT_TOOLTIP_REASON4">Niedawno szydziles z kogos. Prosze czekac.</Entry>
    <Entry key="GUI_TAUNT_TOOLTIP_REASON5">Tej drwiny nie mozna uzyc na tym celu.</Entry>
@@ -4075,12 +4076,12 @@ Prosze nie uzywac znakow takich jak spacje, &apos; lub &quot;</Entry>
    <Entry key="GUI_TAUNT_TOOLTIP_REASON7_1">Tej drwiny mozna uzyc tylko w fazie dyskusji.</Entry>
    <Entry key="GUI_TAUNT_TOOLTIP_REASON7_2">Tej drwiny mozna uzyc tylko w fazie nocy.</Entry>
    <Entry key="GUI_TAUNT_TOOLTIP_REASON7_3">Tej drwiny mozna uzyc tylko w fazie dyskusji lub fazie nocy.</Entry>
-   <Entry key="GUI_TAUNT_RESULT_MESSAGE1">Prowokowales swoj cel.</Entry>
-   <Entry key="GUI_TAUNT_RESULT_MESSAGE2" style="error">Prowokacja nieznana.</Entry>
+   <Entry key="GUI_TAUNT_RESULT_MESSAGE1">Zakpiles swoj cel.</Entry>
+   <Entry key="GUI_TAUNT_RESULT_MESSAGE2" style="error">Kpina nie znaleziona.</Entry>
    <Entry key="GUI_TAUNT_RESULT_MESSAGE3" style="error">Twoj cel jest juz wysmiewany!</Entry>
    <Entry key="GUI_TAUNT_RESULT_MESSAGE4" style="error">Ostatnio zadrwiles z kogos.</Entry>
    <Entry key="GUI_TAUNT_RESULT_MESSAGE5" style="error">Twoj cel jest nieprawidlowy.</Entry>
-   <Entry key="GUI_TAUNT_RESULT_MESSAGE6" style="error">Prowokacja nie powiodla sie, faza wkrotce sie konczy.</Entry>
+   <Entry key="GUI_TAUNT_RESULT_MESSAGE6" style="error">Kpina nie udala sie, faza wkrotce sie konczy.</Entry>
    <Entry key="GUI_TAUNT_RESULT_MESSAGE7" style="error">Nie mozesz teraz tego zrobic.</Entry>
 <Entry key="GUI_TIP0">Wskazowka: Gracze wspolpracujacy ze swoja druzyna wygrywaja wiecej gier.</Entry>
    <Entry key="GUI_TIP1">Wskazowka: Blazny chca byc powieszone.</Entry>
@@ -4094,9 +4095,9 @@ Prosze nie uzywac znakow takich jak spacje, &apos; lub &quot;</Entry>
    <Entry key="GUI_TIP9">Wskazowka: Jesli chcesz pomoc pozbyc sie toksycznych graczy, sprawdz system probny!</Entry>
    <Entry key="GUI_TIP10">Wskazowka: Ocalaly moze zadecydowac o wygranej jednym glosem lub przegranej, poniewaz Twoja druzyna nie miala wystarczajacej liczby glosow.</Entry>
    <Entry key="GUI_TIP11">Wskazowka: Wpisz /ignore [pozycja] bez nawiasow kwadratowych[], aby wyciszyc wiadomosci gracza.</Entry>
-   <Entry key="GUI_TIP12">Wskazowka: Zwoje nie gwarantuja, ze dostaniesz role, ale znacznie zwiekszaja twoje szanse.</Entry>
-   <Entry key="GUI_TIP13">Wskazowka: Zwoje zwiekszaja twoje szanse na zdobycie roli tylko wtedy, gdy ta rola jest w grze.</Entry>
-   <Entry key="GUI_TIP14">Wskazowka: Zwoje nie dzialaja w grach rankingowych!</Entry>
+   <Entry key="GUI_TIP12">Wskazowka: scrolle nie gwarantuja, ze dostaniesz role, ale znacznie zwiekszaja twoje szanse.</Entry>
+   <Entry key="GUI_TIP13">Wskazowka: scrolle zwiekszaja twoje szanse na zdobycie roli tylko wtedy, gdy ta rola jest w grze.</Entry>
+   <Entry key="GUI_TIP14">Wskazowka: scrolle nie dzialaja w grach rankingowych!</Entry>
    <Entry key="GUI_TIP15">Wskazowka: jesli klikniesz na imie zyjacego gracza, istnieje mozliwosc wyszeptania go.</Entry>
    <Entry key="GUI_TIP16">Wskazowka: Jesli cel Egzekutora zostanie zabity w nocy, Egzekutor stanie sie Blaznem.</Entry>
    <Entry key="GUI_TIP17">Wskazowka: Spamowanie, niezaleznie od roli, jest niedozwolone.</Entry>
@@ -4218,7 +4219,7 @@ Prosze nie uzywac znakow takich jak spacje, &apos; lub &quot;</Entry>
    <Entry key="GUI_TOWN">Miasto</Entry>
    <Entry key="GUI_MAFIA">Mafia</Entry>
    <Entry key="GUI_COVEN">Coven</Entry>
-   <Entry key="GUI_Neutralny">Neutralny</Entry>
+   <Entry key="GUI_NEUTRAL">Neutralny</Entry>
    <Entry key="GUI_VAMPIRES">Wampiry</Entry>
    <Entry key="GUI_30">Wampir</Entry>
    <Entry key="GUI_VIPKEYWORD_TOOLTIP">
@@ -4959,9 +4960,9 @@ Continued use of vulgar language may result in automatic suspension.</Entry>
   <Entry key="GAME_188" style="ability_feedback">Your minion was attacked protecting its target.</Entry>
   <Entry key="GUI_GAME_YOU_DIED">You died!</Entry>
   <Entry key="CAULDRON_LABEL_0">Merry Meet!</Entry>
-  <Entry key="CAULDRON_LABEL_1">Only<![CDATA[<b><color=#006600>]]> {NUM_DAYS} <![CDATA[</color></b>]]>more free daily potions are needed to complete your<![CDATA[<b>]]> {BREW_TYPE} <![CDATA[</b>]]>and conjure a prize!
+<Entry key="CAULDRON_LABEL_1">Tylko<![CDATA[<b><color=#006600>]]> {NUM_DAYS} <![CDATA[</color></b>]]>wiecej darmowych mikstur dziennie potrzebne do ukonczenia <![CDATA[<b>]]> {BREW_TYPE} <![CDATA[</b>]]>i wyczarowania nagrody!
       
-      Here is your free potion for today! Click it to add it to the brew!</Entry>
+      Oto Twoj darmowy eliksir na dzis! Kliknij go, aby dodac go do naparu!</Entry>
   <Entry key="CAULDRON_LABEL_2">Free</Entry>
   <!--Key "CAULDRON_LABEL_3" has the same text as key "ITEM_26_1"-->
   <Entry key="CAULDRON_LABEL_3">Eye of Newt</Entry>
